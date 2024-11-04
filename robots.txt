@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubeloatu.github.io/Ayn/sitemap_index.txt
+Sitemap: https://ubeloatu.github.io/Vap/sitemap_index.txt
+Sitemap: https://ubeloatu.github.io/pmB/sitemap_index.txt
+Sitemap: https://ubeloatu.github.io/smc/sitemap_index.txt
